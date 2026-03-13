@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "未来になれなかったあの夜に (Long Edit.) - Miraininarenakatta Anoyoruni (Long Edition)",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-13T12:08:35.974928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来になれなかったあの夜に (Long Edit.)",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_未来になれなかったあの夜に_(Long_Edit.)_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来になれなかったあの夜に",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_未来になれなかったあの夜に_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未来になれなかったあの夜に (Long Edit.)",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_未来になれなかったあの夜に_(Long_Edit.)_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "未来になれなかったあの夜に",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_未来になれなかったあの夜に_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来になれなかったあの夜に",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_未来になれなかったあの夜に_amazarashi.txt"
+    }
+  ]
+}
